@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 sissbruecker/linkding
 hsuyelin/nas-tools
+palworld-server
