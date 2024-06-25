@@ -7,3 +7,4 @@ xhofe/alist:latest
 sissbruecker/linkding
 hsuyelin/nas-tools
 thijsvanloef/palworld-server-docker:latest
+nginx:latest
