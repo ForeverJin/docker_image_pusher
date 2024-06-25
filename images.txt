@@ -8,3 +8,5 @@ sissbruecker/linkding
 hsuyelin/nas-tools
 thijsvanloef/palworld-server-docker:latest
 nginx:latest
+xhofe/alist:latest
+cloudnas/clouddrive2-unstable
