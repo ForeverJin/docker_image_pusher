@@ -10,3 +10,4 @@ thijsvanloef/palworld-server-docker:latest
 nginx:latest
 xhofe/alist:latest
 cloudnas/clouddrive2-unstable
+shenxianmq/auto_symlink:latest
