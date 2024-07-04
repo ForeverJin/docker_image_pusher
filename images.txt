@@ -11,3 +11,4 @@ nginx:latest
 xhofe/alist:latest
 cloudnas/clouddrive2-unstable
 shenxianmq/auto_symlink:latest
+linuxserver/qbittorrent:latest
